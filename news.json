@@ -1,0 +1,56 @@
+{
+    "0": {
+        "title": "Black Friday Sales",
+        "desc": "Black Friday brings 48 hours of amazing deals and three limited-quantity packages!",
+        "url": "http://maplestory2.nexon.net/en/news/article/38797/black-friday-sales",
+        "image": "http://nxcache.nexon.net/cms/2018/6083/181119_blackfridaysales_webthumb-960x600.jpg"
+    },
+    "1": {
+        "title": "[Update Nov. 21] Producer Blog - State of the Game Week 6",
+        "desc": "An update on Crystals from Hard and Normal Adventure Bonus Boxes.",
+        "url": "http://maplestory2.nexon.net/en/news/article/38927/update-nov-21-producer-blog-state-of-the-game-week-6",
+        "image": "http://nxcache.nexon.net/cms/2018/1869/ms2w-219-180404-dev-blog-banner-thumbnail-960x600.png"
+    },
+    "2": {
+        "title": "Mason's Little Secret Event",
+        "desc": "Get a special, cuddly mount by getting close to Mason!",
+        "url": "http://maplestory2.nexon.net/en/news/article/38524/mason-s-little-secret-event",
+        "image": "http://nxcache.nexon.net/cms/2018/5947/thumb_960x600_masonslittleseretevent.jpg"
+    },
+    "3": {
+        "title": "Thanksgiving Giving Event",
+        "desc": "Saying thank you with a wealth of powerful gear!",
+        "url": "http://maplestory2.nexon.net/en/news/article/38686/thanksgiving-giving-event",
+        "image": "http://nxcache.nexon.net/cms/2018/5939/thanksgivingevent_960x600.jpg"
+    },
+    "4": {
+        "title": "Steam Starter Pack",
+        "desc": "Steam has a special package to help you get the most out of MapleStory 2!",
+        "url": "http://maplestory2.nexon.net/en/news/article/38612/steam-starter-pack",
+        "image": "http://nxcache.nexon.net/cms/2018/5932/steamstarterpack_960x600.jpg"
+    },
+    "5": {
+        "title": "[Complete] November 15th Scheduled Maintenance",
+        "desc": "The maintenance has been completed, thank you for your patience.",
+        "url": "http://maplestory2.nexon.net/en/news/article/38640/complete-november-15th-scheduled-maintenance",
+        "image": "http://nxcache.nexon.net/cms/2018/1161/ms2w-113-960x600.jpg"
+    },
+    "6": {
+        "title": "Producer Blog - State of the Game Week 5",
+        "desc": "Jungsoo Lee discusses the Chaos Raids and Progression improvements.",
+        "url": "http://maplestory2.nexon.net/en/news/article/38614/producer-blog-state-of-the-game-week-5",
+        "image": "http://nxcache.nexon.net/cms/2018/1869/ms2w-219-180404-dev-blog-banner-thumbnail-960x600.png"
+    },
+    "7": {
+        "title": "[Complete] November 10th Unscheduled Maintenance",
+        "desc": "The maintenance has been completed, thank you for your patience.",
+        "url": "http://maplestory2.nexon.net/en/news/article/38494/complete-november-10th-unscheduled-maintenance",
+        "image": "http://nxcache.nexon.net/cms/2018/1163/msw-114-960x600-thumbnail-unscheduled.jpg"
+    },
+    "8": {
+        "title": "Producer Blog - Mouse + Keyboard Fix",
+        "desc": "LAMBCOOK discusses a hotfix update to the Mouse & Keyboard controls.",
+        "url": "http://maplestory2.nexon.net/en/news/article/38372/producer-blog-mouse-keyboard-fix",
+        "image": "http://nxcache.nexon.net/cms/2018/1195/thumb_producerletter.jpg"
+    }
+}
