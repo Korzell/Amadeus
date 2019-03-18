@@ -3,6 +3,6 @@
   "prefix": "!",
   "owner": "358639025168580632",
   "channelName": "news",
-  "autoCrawlTime": 1,
+  "autoCrawlTime": 2,
   "autoStartCrawl": true
 }
